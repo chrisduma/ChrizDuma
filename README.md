@@ -24,3 +24,6 @@ All opportunities both in my field of knowing and those out of it are welcome,
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=ChrizDuma&show_icons=true&include_all_commits=true&hide_border=true" alt="chris' GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChrizDuma&langs_count=8&layout=compact&hide_border=true" alt="Chris' GitHub stats" /> |
 | ------------- | ------------- |
+
+## Contribution Graph
+![snake gif](https://github.com/ChrizDuma/ChrizDuma/blob/output/github-contribution-grid-snake.gif)
